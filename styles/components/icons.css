@@ -1,0 +1,13 @@
+.redArrow-right {
+    position: absolute;
+    right: 0;
+    top: 200px;
+    z-index: 1;
+}
+
+.redArrow-left {
+    position: absolute;
+    left: 0;
+    top: 200px;
+    z-index: 1;
+}

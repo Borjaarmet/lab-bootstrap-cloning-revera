@@ -1,0 +1,14 @@
+.container-5 a {
+    color: #9c9c9c;
+    text-decoration: none;
+}
+
+.navbar__links a {
+    margin-left: 2rem;
+    text-decoration: none;
+}
+
+.navbar__links a:hover {
+    background: darken(#636363);
+    cursor: grab;
+}

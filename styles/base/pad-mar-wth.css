@@ -1,0 +1,46 @@
+                .pad10 {
+                    padding: 10px;
+                }
+                
+                .w-25 {
+                    width: 25%;
+                }
+                
+                .w-45 {
+                    width: 45%;
+                    ;
+                }
+                
+                .w-100 {
+                    width: 100%;
+                }
+                
+                .m-20 {
+                    margin: 20px;
+                }
+                
+                .m-lr-150 {
+                    margin-left: 150px;
+                    margin-right: 150px;
+                }
+                
+                .pdt-10 {
+                    padding-top: 10px;
+                }
+                
+                .pdt-30 {
+                    padding-top: 30px;
+                }
+                
+                .pdb-30 {
+                    padding-bottom: 30px;
+                    ;
+                }
+                
+                .pdb-10 {
+                    padding-bottom: 10px;
+                }
+                
+                .pdr-25 {
+                    padding-right: 25px;
+                }

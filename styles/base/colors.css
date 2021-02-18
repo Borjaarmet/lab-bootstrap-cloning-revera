@@ -1,0 +1,29 @@
+.bgc-primary {
+    background-color: white;
+}
+
+.bgc-2 {
+    background-color: #e04d39;
+    color: white;
+}
+
+.bgc-3 {
+    background-color: #444343;
+}
+
+.bgc-4 {
+    background-color: #2c2c2c;
+    color: white;
+}
+
+.c-gray {
+    color: #9c9c9c;
+}
+
+.c-red {
+    color: #e04d39;
+}
+
+.c-white {
+    color: white;
+}
